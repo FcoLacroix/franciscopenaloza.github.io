@@ -1,0 +1,45 @@
+/*style.css*/
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+    height: 4em;
+    padding: 2em;
+    font-size: 1em;
+    width: 95,5%;
+    background-image: url(../imgs/Foto1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0px 0px;
+    background-color: #ffbb00;
+}
+
+.header h1 {
+    margin: 0;
+    font-weight:300px;
+}
+
+.products {
+    width: 60%;
+    margin: auto;
+    }
+    .products td {
+    width: 50%;
+    padding: 2em;
+    }
+    .products img {
+    width: 50%;
+    border: solid 1px #ddd;
+    }
+    
+    .footer {
+        height: 3em;
+        line-height: 3em;
+        width: 100%;
+        background-color: rgb(174, 116, 58);
+        color: rgb(239, 239, 239);
+        text-align: center;
+        font-weight: 900;
+        }
+

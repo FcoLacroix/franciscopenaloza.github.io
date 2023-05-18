@@ -1,0 +1,72 @@
+body {
+    font-family: roboto;
+}
+
+
+.send-email-container {
+    height: 240px;
+    background-color: #28a745;
+}
+
+.title-send-mail{
+color: white;
+}
+
+.footer__text {
+    color: #707070;
+    font-weight: 200;
+    margin-top: 10px;
+    text-align: center;
+    width: 80%;
+}
+
+.footer{
+    height: 120px;
+}
+
+.logo{
+    height: 24px;
+    width: 82px;
+}
+
+.nav__coupon {
+    background-color: #28a745
+    !important;
+}
+
+.color-link{
+    .nav-link {
+        color: white;
+    }
+}
+
+.border-bottom{
+    width: 90%;
+    margin-left: 25px;
+}
+
+.card-text{
+font-weight: 200;
+color: #707070;
+font-size: 16px;
+}
+
+.card-title{
+font-weight: 300;
+}
+
+.card-title-2 {
+    font-weight: 500;
+    font-size: 20px;
+    color: #28A745;
+}
+
+.col-auto {
+    width: 80%;
+    justify-content: center;
+}
+
+.title-send-mail {
+    display: flex;
+    justify-content: center;
+}
